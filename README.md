@@ -37,7 +37,7 @@ _(Previsão de conclusão: 2027)_
 
 | Idioma  | Nível              |
 |---------|--------------------|
-| Inglês  | Intermediário 1    |
+| Inglês  | Intermediário (B1) |
 
 ---
 
