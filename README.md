@@ -11,27 +11,48 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac
 
 ---
 
-## Conhecimentos
+## Conhecimentos e Ferramentas
 
-- Pacote Adobe
-- Microsoft Office
 - HTML5
 - CSS3
 - Git
 - GitHub
 - JavaScript ( cursando )
 - Java ( cursando )
+- Python ( cursando )
+- MySQL ( cursando )
+
+-VS CODE, NetBeans
+-Figma
+-Photoshop
+-Illustrator
+-Premiere
+-Animate
+-Vegas
+-Trello
+-Word
+-Excel
+-PowerPoint
+
+---
+
+## Habilidades
+
+-Apto ao trabalho em grupo
+-Fácil aprendizado
+-Proatividade
+-Adaptabilidade
+-Comprometimento
+-Tomada de decisão
+-Comunicação efetiva.
 
 ---
 
 ## Formação Acadêmica
 
 - Ensino Médio finalizado - Curso Técnico de Multimídia (2022-2024)
-- Graduação (cursando) em Análise e Desenvolvimento de Sistemas — Senac São Paulo - Nações Unidas
+- Graduação (cursando) em Análise e Desenvolvimento de Sistemas — Senac São Paulo - Nações Unidas 
 _(Previsão de conclusão: 2027)_
-
----
-
 
 ---
 
