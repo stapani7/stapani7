@@ -1,7 +1,7 @@
 # Prazer, me chamo Mateus Stapani 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusstapani)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stapani77)  
+[![LinkedIn]](https://www.linkedin.com/in/mateusstapani)  
+[![Instagram]](https://www.instagram.com/stapani77)  
 
 ---
 
@@ -22,17 +22,18 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** no Senac
 - Python ( cursando )
 - MySQL ( cursando )
 
--VS CODE, NetBeans
--Figma
--Photoshop
--Illustrator
--Premiere
--Animate
--Vegas
--Trello
--Word
--Excel
--PowerPoint
+- Visual Studio Code
+- NetBeans
+- Trello
+- Figma
+- Photoshop
+- Illustrator
+- Premiere
+- Animate
+- Vegas
+- Word
+- Excel
+- PowerPoint
 
 ---
 
