@@ -61,4 +61,4 @@ _(Previsão de conclusão: 2027)_
 
 ---
 
-Obrigado pela visita ao meu perfil! 🚀
+Obrigado pela visita ao meu perfil!
